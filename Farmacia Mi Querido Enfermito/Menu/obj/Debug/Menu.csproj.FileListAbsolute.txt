@@ -1,0 +1,95 @@
+C:\POO\Farmacia.COMMON\Menu\bin\Debug\Menu.exe.config
+C:\POO\Farmacia.COMMON\Menu\bin\Debug\Menu.exe
+C:\POO\Farmacia.COMMON\Menu\bin\Debug\Menu.pdb
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Categorias.g.cs
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Clientes.g.cs
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Empleado.g.cs
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\MainWindow.g.cs
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Productos.g.cs
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\App.g.cs
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Menu_MarkupCompile.cache
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Menu_MarkupCompile.lref
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Categorias.baml
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Clientes.baml
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Empleado.baml
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\MainWindow.baml
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Productos.baml
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Menu.g.resources
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Menu.exe
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Menu.pdb
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Ventas.g.cs
+C:\POO\Farmacia.COMMON\Menu\obj\Debug\Ventas.baml
+E:\Farmacia.COMMON\Menu\bin\Debug\Menu.exe.config
+E:\Farmacia.COMMON\Menu\obj\Debug\Menu.exe
+E:\Farmacia.COMMON\Menu\obj\Debug\Menu.pdb
+E:\Farmacia.COMMON\Menu\bin\Debug\Menu.exe
+E:\Farmacia.COMMON\Menu\bin\Debug\Menu.pdb
+E:\Farmacia.COMMON\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+E:\Farmacia.COMMON\Menu\obj\Debug\Categorias.g.cs
+E:\Farmacia.COMMON\Menu\obj\Debug\Clientes.g.cs
+E:\Farmacia.COMMON\Menu\obj\Debug\Empleado.g.cs
+E:\Farmacia.COMMON\Menu\obj\Debug\MainWindow.g.cs
+E:\Farmacia.COMMON\Menu\obj\Debug\Productos.g.cs
+E:\Farmacia.COMMON\Menu\obj\Debug\Ventas.g.cs
+E:\Farmacia.COMMON\Menu\obj\Debug\App.g.cs
+E:\Farmacia.COMMON\Menu\obj\Debug\Menu_MarkupCompile.cache
+E:\Farmacia.COMMON\Menu\obj\Debug\Menu_MarkupCompile.lref
+E:\Farmacia.COMMON\Menu\obj\Debug\Categorias.baml
+E:\Farmacia.COMMON\Menu\obj\Debug\Clientes.baml
+E:\Farmacia.COMMON\Menu\obj\Debug\Empleado.baml
+E:\Farmacia.COMMON\Menu\obj\Debug\MainWindow.baml
+E:\Farmacia.COMMON\Menu\obj\Debug\Productos.baml
+E:\Farmacia.COMMON\Menu\obj\Debug\Ventas.baml
+E:\Farmacia.COMMON\Menu\obj\Debug\Menu.g.resources
+E:\Farmacia.COMMON\Menu\obj\Debug\Menu.Properties.Resources.resources
+E:\Farmacia.COMMON\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+F:\Farmacia.COMMON\Menu\bin\Debug\Menu.exe.config
+F:\Farmacia.COMMON\Menu\obj\Debug\Menu.exe
+F:\Farmacia.COMMON\Menu\obj\Debug\Menu.pdb
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\bin\Debug\Menu.exe
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\bin\Debug\Menu.pdb
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Categorias.g.cs
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Clientes.g.cs
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Empleado.g.cs
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\MainWindow.g.cs
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Productos.g.cs
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\App.g.cs
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Menu_MarkupCompile.cache
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Menu_MarkupCompile.lref
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Categorias.baml
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Clientes.baml
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Empleado.baml
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\MainWindow.baml
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Productos.baml
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Menu.g.resources
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Menu.exe
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Menu.pdb
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia.COMMON\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\MARIA\Downloads\Farmacia.COMMON\Menu\obj\Debug\Menu.exe
+C:\Users\MARIA\Downloads\Farmacia.COMMON\Menu\obj\Debug\Menu.pdb
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Menu.exe
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Menu.pdb
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\bin\Debug\Menu.exe
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\bin\Debug\Menu.pdb
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Categorias.g.cs
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Clientes.g.cs
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Empleado.g.cs
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\MainWindow.g.cs
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Productos.g.cs
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\App.g.cs
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Menu_MarkupCompile.cache
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Menu_MarkupCompile.lref
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Categorias.baml
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Clientes.baml
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Empleado.baml
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\MainWindow.baml
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Productos.baml
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Menu.g.resources
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\MARIA\Documents\Visual Studio 2015\Projects\Farmacia Mi Querido Enfermito\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache

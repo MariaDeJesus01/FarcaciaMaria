@@ -1,0 +1,72 @@
+﻿<Window x:Class="Menu.Empleado"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Menu"
+        mc:Ignorable="d"
+        Title="Empleado" Height="342" Width="804">
+    <Window.Background>
+        <ImageBrush ImageSource="Imagenes/fondo.jpg"/>
+    </Window.Background>
+    <Grid Margin="0,0,0,-4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height ="auto"/>
+            <RowDefinition Height ="auto"/>
+            <RowDefinition Height ="*"/>
+        </Grid.RowDefinitions>
+        <WrapPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <Label Width="150" Margin="2">Nombre</Label>
+                <TextBox Height="30" Width="150" Margin="4" x:Name="NombreEmpleado"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="150" Margin="2">Edad</Label>
+                <TextBox Height="30" Width="150" Margin="4" x:Name="Edad"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="150" Margin="2">Genero</Label>
+                <TextBox Height="30" Width="150" Margin="4" x:Name="Sexo"></TextBox>
+            </StackPanel>
+            <WrapPanel Orientation="Horizontal">
+                <Button  Margin="4" Width="120" x:Name="btnRegresar" Click="btnRegresar_Click_2" Background="Gray">
+                    <StackPanel>
+                        <Label>Regresar</Label>
+                        <Image Source="/Imagenes/text_indent_remove.png" Width="16"></Image>
+                    </StackPanel>
+                </Button>
+                <Button Margin="4" Width="120" x:Name="btnEliminar" Click="btnEliminar_Click" Background="Gray">
+                    <StackPanel>
+                        <Label>Eliminar</Label>
+                        <Image Source="/Imagenes/textfield_delete.png" Width="16"></Image>
+                    </StackPanel>
+                </Button>
+                <Button Margin="4" Width="120" x:Name="btnGuardar" Click="btnGuardar_Click" Background="Gray">
+                    <StackPanel>
+                        <Label>Guardar</Label>
+                        <Image Source="/Imagenes/page_save.png" Width="16"></Image>
+                    </StackPanel>
+                </Button>
+                <Button Margin="4" Width="120" x:Name="btnNuevo" Click="btnNuevo_Click" Background="Gray">
+                    <StackPanel>
+                        <Label>Nuevo</Label>
+                        <Image Source="/Imagenes/textfield_add.png" Width="16"></Image>
+                    </StackPanel>
+                </Button>
+                <Button Margin="4" Width="120" x:Name="btnCancelar" Click="btnCancelar_Click" Background="Gray">
+                    <StackPanel>
+                        <Label>Cancelar</Label>
+                        <Image Source="/Imagenes/cancel.png" Width="16"></Image>
+                    </StackPanel>
+                </Button>
+                <Button Margin="4" Width="120" x:Name="btnEditar" Click="btnEditar_Click" Background="Gray">
+                    <StackPanel>
+                        <Label>Editar</Label>
+                        <Image Source="/Imagenes/cart_edit.png" Width="16"></Image>
+                    </StackPanel>
+                </Button>
+            </WrapPanel>
+        </WrapPanel>
+        <DataGrid x:Name="EmpleadosTabla" Grid.Row="2" Grid.Column="0" Margin="35,12,30,13"></DataGrid>
+    </Grid>
+</Window>

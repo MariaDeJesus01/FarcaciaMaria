@@ -1,0 +1,42 @@
+﻿<Window x:Class="Menu.Ventas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Menu"
+        mc:Ignorable="d"
+        Title="Ventas" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height ="auto"/>
+            <RowDefinition Height ="auto"/>
+            <RowDefinition Height ="auto"/>
+            <RowDefinition Height ="auto"/>
+            <RowDefinition Height ="*"/>
+        </Grid.RowDefinitions>
+        <WrapPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <Label Width="130" Margin="2">Jarabes</Label>
+                <TextBox Height="30" Width="150" Margin="4" x:Name="Jarabes"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="130" Margin="2">Controlados</Label>
+                <TextBox Height="30" Width="150" Margin="4" x:Name="Controlados"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="130" Margin="2">Inyectables</Label>
+                <TextBox Height="30" Width="150" Margin="4" x:Name="Inyectables"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="130" Margin="2">Tabletas</Label>
+                <TextBox Height="30" Width="150" Margin="4" x:Name="Tabletas"></TextBox>
+            </StackPanel>
+            <Button Margin="4" Width="90" x:Name="btnRegresar" Click="btnRegresar_Click">
+                <StackPanel>
+                    <Label>Regresar</Label>
+                    <Image></Image>
+                </StackPanel>
+            </Button>
+        </WrapPanel>
+    </Grid>
+</Window>
